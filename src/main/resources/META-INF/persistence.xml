@@ -9,9 +9,9 @@
     <class>com.exam.Models.Project</class>
     <class>com.exam.Models.Implication</class>
     <properties>
-      <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/exam"/>
+      <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://root:vgflfecCdjoQAihodGZLLcKckpEYxmVi@monorail.proxy.rlwy.net:28627/exam"/>
       <property name="jakarta.persistence.jdbc.user" value="root"/>
-      <property name="jakarta.persistence.jdbc.password" value=""/>
+      <property name="jakarta.persistence.jdbc.password" value="vgflfecCdjoQAihodGZLLcKckpEYxmVi"/>
       <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
 
       <!-- EclipseLink-specific properties -->
